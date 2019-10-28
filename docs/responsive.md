@@ -122,13 +122,13 @@ InkWell(
 
 Une fois la formulaire de contact créer un problème viendra 
 
-![](.gitbook/assets/1-ysmfakgpk3x2koeysaumeg.png)
+![](./assets/1-ysmfakgpk3x2koeysaumeg.png)
 
 Pour régler le problème, on utilisera la librairie ScreenUtils
 
 Dans le pubspec.yaml
 
-![](.gitbook/assets/1-c9taaaio-xsgdxkn0dgopg.png)
+![](./assets/1-c9taaaio-xsgdxkn0dgopg.png)
 
 Ensuite on devra instancier l'objet screenUtil
 
@@ -195,11 +195,11 @@ Container(
 
 Le résultat obtenu sera
 
-![.480x800 HDPI Before \| After](.gitbook/assets/1-zncrtlhzm9407kjwtafnfw.png)
+![.480x800 HDPI Before \| After](./assets/1-zncrtlhzm9407kjwtafnfw.png)
 
-![1080x1920HDPI Before \| After](.gitbook/assets/1-xpu-tkfriwdufc-vsekirg.png)
+![1080x1920HDPI Before \| After](./assets/1-xpu-tkfriwdufc-vsekirg.png)
 
-![1200x1920HDPI Before \| After](.gitbook/assets/1-jagqsnjyqwhha6b8ob8dfw.png)
+![1200x1920HDPI Before \| After](./assets/1-jagqsnjyqwhha6b8ob8dfw.png)
 
-![iPhone XR Before \| After](.gitbook/assets/1-sag0qfy7ie1ej2xvr6cqsw.png)
+![iPhone XR Before \| After](./assets/1-sag0qfy7ie1ej2xvr6cqsw.png)
 
