@@ -1,6 +1,6 @@
 # Providers
 
-![](.gitbook/assets/1-yt1mqh2cegpsbbie_tjsza.png)
+![](./assets/1-yt1mqh2cegpsbbie_tjsza.png)
 
 ## Qu'est ce que Provider?
 
@@ -75,7 +75,7 @@ class HomePage extends StatelessWidget {
 }
 ```
 
-![R&#xE9;sultat](.gitbook/assets/1-kcjpgtejnqaoo4o7ntswnw.png)
+![R&#xE9;sultat](./assets/1-kcjpgtejnqaoo4o7ntswnw.png)
 
 Maintenant pour utiliser provider , on va crée une class Counter et deux méthodes increment et decrement
 
@@ -165,5 +165,5 @@ class HomePage extends StatelessWidget {
 }
 ```
 
-![R&#xE9;sultat final](.gitbook/assets/1-sv9-ork2ub_fp0tjnr_dcg.gif)
+![R&#xE9;sultat final](./assets/1-sv9-ork2ub_fp0tjnr_dcg.gif)
 

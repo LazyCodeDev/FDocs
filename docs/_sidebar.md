@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Flutter Responsive](README.md)
+* [Flutter Responsive](responsive.md)
 * [Coding Styles](coding-styles.md)
 * [Pub](pub.md)
 * [Comments](comments.md)
