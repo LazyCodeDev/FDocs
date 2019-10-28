@@ -5,4 +5,5 @@
 * [Pub](pub.md)
 * [Comments](comments.md)
 * [Providers](providers.md)
+* [i18n](i18n.md)
 
